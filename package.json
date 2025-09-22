@@ -2,7 +2,7 @@
   "name": "test-opos",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://EricPS9.github.io/test-opos",
+  "homepage": "https://ericps9.github.io/test-opos",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
