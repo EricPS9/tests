@@ -34,7 +34,7 @@ export default function App() {
   const timerRef = useRef(null);
 
   useEffect(() => {
-    // Cargar JSON desde /public/examen_2014.json
+    // Cargar JSON desde /public/examen_2014.json (ajustado para GitHub Pages)
     fetch(process.env.PUBLIC_URL + "/examen_2014.json")
       .then((r) => {
         if (!r.ok) throw new Error("No hay JSON en /public/");
