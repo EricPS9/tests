@@ -1,0 +1,26 @@
+[
+  {
+    "numero": 1,
+    "bloque": "I",
+    "enunciado": "La ley 34/2002, de servicios de la sociedad de la información y comercio electrónico, en su artículo 45 trata la prescripción. Señale la respuesta correcta respecto a las infracciones:",
+    "opciones": {
+      "A": "Las muy graves prescribirán a los tres años, las graves a los dos años y las leves al año.",
+      "B": "Las muy graves prescribirán a los cinco años, las graves a los dos años y las leves a los seis meses.",
+      "C": "Las muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.",
+      "D": "Las muy graves prescribirán a los cinco años, las graves a los tres años y las leves al año."
+    },
+    "respuesta_correcta": "C"
+  },
+  {
+    "numero": 2,
+    "bloque": "I",
+    "enunciado": "En lo referente a los certificados de identidad pública contenidos en el Documento Nacional de Identidad (DNIe), señale la sentencia FALSA:",
+    "opciones": {
+      "A": "Son emitidos como certificados reconocidos.",
+      "B": "Vinculan una serie de datos personales del ciudadano a unas determinadas claves.",
+      "C": "Garantizan la autenticidad, integridad y no repudio.",
+      "D": "Pueden ser renovados por declaración de que el ciudadano no tiene capacidad de firma (pródigo)."
+    },
+    "respuesta_correcta": "D"
+  }
+]
