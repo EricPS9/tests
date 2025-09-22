@@ -35,7 +35,7 @@ export default function App() {
 
   useEffect(() => {
     // Cargar JSON desde /public/examen_2014.json
-    fetch("/examen_2014.json")
+    fetch(process.env.PUBLIC_URL + "/examen_2014.json")
       .then((r) => {
         if (!r.ok) throw new Error("No hay JSON en /public/");
         return r.json();
